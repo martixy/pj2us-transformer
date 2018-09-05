@@ -1,6 +1,6 @@
 {
   "name": "pj2us-transformer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Transforms package.json into userscript metadata, including a local require, if provided",
   "main": "index.js",
   "scripts": {
